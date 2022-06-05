@@ -35,3 +35,8 @@ Inserção de usuários teste com senha criptografia
 Teste de descriptografia 
 
 Visualização dos dados
+
+2022 - Atualização do banco de dados, com criação da tabela de fornecedores de botijões de gas
+testes de inserção, alteração e deleção de dados de teste
+Criação do diagrama ER com a nova tabela
+
